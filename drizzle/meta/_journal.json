@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1755000869548,
+      "tag": "0000_true_skaar",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1755001039832,
+      "tag": "0001_talented_toxin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1755015014750,
+      "tag": "0002_fancy_jasper_sitwell",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1755021274602,
+      "tag": "0003_tearful_justice",
+      "breakpoints": true
+    }
+  ]
+}

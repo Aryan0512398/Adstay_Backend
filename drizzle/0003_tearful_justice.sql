@@ -1,0 +1,1 @@
+ALTER TABLE "vendors" ALTER COLUMN "documents" SET DATA TYPE jsonb;
